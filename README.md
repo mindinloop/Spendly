@@ -2,7 +2,7 @@ Spendly
 
 A student expense tracker I built to stop wondering where my money went every month. No backend, no login, no nonsense — just open it and start tracking.
 
-[Live Demo →](https://mindinloop.github.io/spendly)
+[Live Demo →](https://mindinloop.github.io/Spendly)
 
 ---
 
@@ -42,7 +42,10 @@ Download `index.html` and open it in a browser. That's it.
 
 Screenshots
 
-> *(Add a screenshot here — you can drag an image into the GitHub editor)*
+<img width="1896" height="715" alt="Screenshot 2026-03-28 201348" src="https://github.com/user-attachments/assets/9883f6ec-43d1-4428-9867-ed4d8a896ca3" />
+<img width="1893" height="862" alt="Screenshot 2026-03-28 201423" src="https://github.com/user-attachments/assets/6b7381ac-21a9-47ce-8b8d-9306e3e3e278" />
+
+
 
 ---
 
